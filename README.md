@@ -1,8 +1,12 @@
-这里是我用于完成一个基于Arduino Mega 2560的BDS卫星模块的定位消息实施解析的内容。（并将其显示在SSD 1306显示屏上）<br>
+这里是我用于完成一个基于Arduino Mega 2560的BDS卫星模块的定位消息实施解析的内容。<br>
+（并将其显示在SSD 1306显示屏上）<br>
 这个GitHub项目用于纪念我完成的第一个小型个人项目。<br>
+累了，洗洗睡了。<br>
 
-Here is my source code for receiving BDS signal and analyze it in real-time, based on Arduino Mega 2560. (And display my result in SSD 1306)<br>
+Here is my source code for receiving BDS signal and analyze it in real-time, based on Arduino Mega 2560. <br>
+(And display in SSD 1306)<br>
 This GitHub Project aims to in memory of my first completeed personal project.<br>
+I have to go to bed because now it is 1:46 AM for UTC+8 timezone.<br>
 
 ```
 // 和GNSS操作无关的注释不会被翻译为英语 | I won't translate my comments for non-GNSS Operations.
